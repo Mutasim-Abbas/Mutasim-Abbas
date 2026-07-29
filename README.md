@@ -2,7 +2,8 @@
 
 # Mutasim Abbas
 
-**Software engineering student** · Istanbul
+**Software engineering student**
+
 Building things on the web and learning in public.
 
 <a href="https://readme-typing-svg.demolab.com">

@@ -152,7 +152,7 @@ test was written from the same wrong assumption as the code.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mutasim-Abbas&hide_border=true&background=0f1117&stroke=1e2331&ring=f5b417&fire=8ce046&currStreakLabel=f5b417&sideLabels=aeb7c9&dates=78839a" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=Mutasim-Abbas&hide_border=true&background=0f1117&stroke=1e2331&ring=f5b417&fire=8ce046&currStreakLabel=f5b417&sideLabels=aeb7c9&dates=78839a" alt="Streak" />
 
 </div>
 

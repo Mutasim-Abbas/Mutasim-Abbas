@@ -7,7 +7,7 @@
 Building things on the web and learning in public.
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=F5B417&center=true&vCenter=true&width=560&height=32&lines=Four+projects+shipped+and+live.;TypeScript+%2B+React.;Still+early%2C+learning+fast." alt="TypeScript and React. Four projects shipped and live." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=F5B417&center=true&vCenter=true&width=560&height=32&lines=Four+projects+shipped+and+live.;TypeScript+%2B+React.;I+finish+what+I+start." alt="TypeScript and React. Four projects shipped and live." />
 </a>
 
 <br />
@@ -29,9 +29,6 @@ not a half-finished demo.
 My main interest is in **AI** and **web development**, and specifically in the gap
 between the two: putting a model behind a product without letting the model become
 the product.
-
-I'm early in this. The list of things I want to learn is longer than the list of
-things I know, and that's the point.
 
 ---
 
@@ -69,8 +66,6 @@ My personal site.
 
 ## What I work with
 
-The things I can actually explain and defend:
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117)
@@ -79,36 +74,11 @@ The things I can actually explain and defend:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
 
-## What I'm learning
-
-Tools my projects use that I'm still getting properly comfortable with — listed
-here honestly rather than in the section above:
-
-![Three.js](https://img.shields.io/badge/Three.js-555?style=flat-square&logo=three.js&logoColor=white&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-555?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-555?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0d1117)
-![Vite](https://img.shields.io/badge/Vite-555?style=flat-square&logo=vite&logoColor=white&labelColor=0d1117)
-![Testing](https://img.shields.io/badge/Testing-555?style=flat-square&logo=vitest&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
-
----
-
-## How I think about building
-
-> Ship the whole thing. A finished small project teaches more than an abandoned
-> ambitious one.
-
-> If the screen says something is true, it should actually be true. In VisSort the
-> labels on the array are checked against a replay of the real algorithm, so the
-> view can't quietly lie.
-
-> Read the error before changing the code.
-
 ---
 
 <div align="center">
 
-<sub>Open to internships and to working with people who'll tell me when I'm wrong.</sub>
+<sub>Open to internships and collaboration.</sub>
 
 <br />
 

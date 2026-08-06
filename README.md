@@ -7,14 +7,14 @@
 Building things on the web and learning in public.
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=F5B417&center=true&vCenter=true&width=560&height=32&lines=Four+projects+shipped+and+live.;TypeScript+%2B+React.;I+finish+what+I+start." alt="TypeScript and React. Four projects shipped and live." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=F5B417&center=true&vCenter=true&width=560&height=32&lines=Four+projects+shipped.;TypeScript+%2B+React.;I+finish+what+I+start." alt="TypeScript and React. Four projects shipped." />
 </a>
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-45c4ff?style=flat-square&labelColor=0d1117)](https://mutasim-abbas.github.io/mutasim-abbas-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-45c4ff?style=flat-square&labelColor=0d1117)](https://mutasim-abbas-portfolio.vercel.app)
 [![VisSort](https://img.shields.io/badge/VisSort-Try_it-f5b417?style=flat-square&labelColor=0d1117)](https://visort-seven.vercel.app/)
-[![FitMacro](https://img.shields.io/badge/FitMacro-Try_it-8ce046?style=flat-square&labelColor=0d1117)](https://fit-macro-ten.vercel.app)
+[![Modus](https://img.shields.io/badge/Modus-Try_it-8ce046?style=flat-square&labelColor=0d1117)](https://modus-tracker.vercel.app)
 
 </div>
 
@@ -34,7 +34,8 @@ the product.
 
 ## Projects
 
-All four are live. Click through and use them.
+Three are live — click through and use them. LuminaStudy is source-only: it needs its
+own server for accounts and AI, so there is no public demo to link.
 
 ### 🧮 VisSort — sorting algorithm visualizer
 [**Live**](https://visort-seven.vercel.app/) · [Repo](https://github.com/Mutasim-Abbas/VisSort)
@@ -44,12 +45,14 @@ an array view split into the regions each algorithm actually tracks, and a recur
 tree that builds itself as calls open and return. Built for teaching — you can type
 your own numbers and step through one comparison at a time.
 
-### 🥗 FitMacro — nutrition tracker
-[**Live**](https://fit-macro-ten.vercel.app) · [Repo](https://github.com/Mutasim-Abbas/FitMacro)
+### 🥗 Modus — nutrition tracker
+[**Live**](https://modus-tracker.vercel.app) · [Repo](https://github.com/Mutasim-Abbas/Modus)
 
-A macro tracker with a real calculation engine (Mifflin–St Jeor), a 184-food
-database, and meal scanning from a photo. Local-first: your data stays on your
-device, and the app works fully offline.
+A nutrition tracker with a real calculation engine (Mifflin–St Jeor), a 184-food
+database, and meal scanning that estimates macros from a photo you then correct.
+Local-first: it works fully offline with no account, and your log stays on your
+device. Accounts are optional and additive — make one and the same log follows you
+to your other devices.
 
 ### 📚 LuminaStudy — study tools
 [Repo](https://github.com/Mutasim-Abbas/LuminaStudy)
@@ -58,7 +61,7 @@ Study tools plus a grade calculator that answers the question every student actu
 has: *what do I need on the final to get the grade I want?*
 
 ### 🪪 Portfolio
-[**Live**](https://mutasim-abbas.github.io/mutasim-abbas-portfolio/) · [Repo](https://github.com/Mutasim-Abbas/mutasim-abbas-portfolio)
+[**Live**](https://mutasim-abbas-portfolio.vercel.app) · [Repo](https://github.com/Mutasim-Abbas/mutasim-abbas-portfolio)
 
 My personal site.
 

@@ -32,7 +32,7 @@ Most of my work sits where AI meets web development. I like using AI as a featur
 product rather than as the product itself, so in my apps every AI answer is something you can
 edit or ignore, and everything still works with the AI turned off.
 
-I work mainly in TypeScript and React, and I speak Arabic and English.
+I work mainly in TypeScript and React.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" />
 

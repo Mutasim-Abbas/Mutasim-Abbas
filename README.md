@@ -11,7 +11,6 @@
 <a href="https://mutasim-abbas-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Visit-5ED29C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070B0A" /></a>
 <a href="https://visort-seven.vercel.app/"><img alt="VisSort live" src="https://img.shields.io/badge/VISSORT-Try_it-6FE9E0?style=for-the-badge&logo=threedotjs&logoColor=white&labelColor=070B0A" /></a>
 <a href="https://modus-tracker.vercel.app"><img alt="Modus live" src="https://img.shields.io/badge/MODUS-Try_it-A78BFA?style=for-the-badge&logo=react&logoColor=white&labelColor=070B0A" /></a>
-<a href="mailto:asoom23abs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Say_hi-F5B417?style=for-the-badge&logo=gmail&logoColor=white&labelColor=070B0A" /></a>
 
 <br />
 
@@ -23,20 +22,17 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" /> About me
 
-```ts
-const mutasim = {
-  role:      "Software engineering student",
-  school:    "Istanbul Atlas University",
-  focus:     ["AI", "web development", "the gap between the two"],
-  languages: ["TypeScript", "JavaScript", "Arabic", "English"],
-  rule:      "Deployed, or it doesn't count.",
-} as const;
-```
+I'm a software engineering student at Istanbul Atlas University, and I build for the web.
 
-I learn by building complete things rather than following tutorials — **every project below is
-deployed and usable, not a half-finished demo.** My interest is in putting a model *behind* a
-product without letting the model *become* the product: every AI estimate in my apps is something
-you can edit, and every app still works with the AI switched off.
+I learn by building complete things rather than following tutorials. **Every project below is
+deployed and usable — not a half-finished demo.** I'd rather ship one app that really works than
+ten that only run on my laptop.
+
+Most of my work sits where AI meets web development. I like using AI as a feature inside a
+product rather than as the product itself, so in my apps every AI answer is something you can
+edit or ignore, and everything still works with the AI turned off.
+
+I work mainly in TypeScript and React, and I speak Arabic and English.
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="" />
 
@@ -229,7 +225,7 @@ reduced-motion fallbacks throughout, so the animation turns itself off for anyon
 
 <a href="https://github.com/Mutasim-Abbas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Mutasim--Abbas-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://mutasim-abbas-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-5ED29C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070B0A" /></a>
-<a href="mailto:asoom23abs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asoom23abs@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Mutasim-Abbas?tab=repositories"><img alt="Projects" src="https://img.shields.io/badge/Projects-Browse-6FE9E0?style=for-the-badge&logo=git&logoColor=white&labelColor=070B0A" /></a>
 
 </div>
 

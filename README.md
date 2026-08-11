@@ -221,7 +221,6 @@ reduced-motion fallbacks throughout, so the animation turns itself off for anyon
 
 ## 📬 Get in touch
 
-**Open to internships and collaboration.**
 
 <a href="https://github.com/Mutasim-Abbas"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Mutasim--Abbas-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://mutasim-abbas-portfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-5ED29C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=070B0A" /></a>

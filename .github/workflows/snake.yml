@@ -20,7 +20,9 @@ jobs:
 
     steps:
       - name: Generate the snake SVGs
-        uses: Platane/snk@v3
+        # Pinned to a commit, not a tag: a tag can be repointed at new code,
+        # and this job runs with contents: write. Dependabot keeps it current.
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,7 +31,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push them to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
           target_branch: output
           build_dir: dist

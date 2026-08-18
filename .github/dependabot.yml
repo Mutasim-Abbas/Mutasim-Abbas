@@ -1,0 +1,8 @@
+# Keeps the SHA-pinned actions in workflows/ up to date. Without this, pinning
+# to a commit would mean never picking up an action's security fixes.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly

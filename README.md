@@ -49,7 +49,6 @@ it goes. Type in your own numbers and step through one comparison at a time, for
 
 <sub>the pseudocode follows along, line by line</sub>
 
-<img src="https://img.shields.io/badge/Three.js-1B2733?style=flat-square&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
 
@@ -71,7 +70,6 @@ computer. There's a grade calculator and a multi-semester degree planner in ther
 
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Three.js-1B2733?style=flat-square&logo=threedotjs&logoColor=white" />
 
 <a href="https://github.com/Mutasim-Abbas/LuminaStudy"><img src="https://img.shields.io/badge/Code-070B0A?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -86,9 +84,9 @@ system asked for that.
 
 <sub>self-hosted fonts · deploys on push</sub>
 
-<img src="https://img.shields.io/badge/Next.js-1B2733?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind-1B2733?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Framer_Motion-1B2733?style=flat-square&logo=framer&logoColor=A78BFA" />
 
 <a href="https://mutasim-abbas-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live-5ED29C?style=flat-square" /></a>
 <a href="https://github.com/Mutasim-Abbas/mutasim-abbas-portfolio"><img src="https://img.shields.io/badge/Code-070B0A?style=flat-square&logo=github&logoColor=white" /></a>

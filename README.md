@@ -9,17 +9,15 @@
 
 ## About me
 
-I'm a software engineering student at Istanbul Atlas University, and I build for the web.
+I'm a software engineering student at Istanbul Atlas University. I build web apps in TypeScript and
+React.
 
-I learn by building complete things rather than following tutorials, so every project below is
-deployed and usable. Most of my work sits where AI meets web development — I like AI as a feature
-inside a product rather than as the product itself, so every AI answer can be edited or ignored,
-and everything still works with the AI turned off.
+Most of what I make started as something I wanted to exist — a nutrition tracker that doesn't make
+you create an account, a sorting visualizer I built because I couldn't picture what merge sort was
+actually doing. I'd rather finish one thing and put it online than keep five half-built ones on my
+laptop, so everything below is live or open source.
 
 ## Projects
-
-Three are live — click through and use them. LuminaStudy is source-only: it needs its own server
-for accounts, email and AI, so there is no public demo to link.
 
 <table>
 <tr>
@@ -27,11 +25,11 @@ for accounts, email and AI, so there is no public demo to link.
 
 ### Modus — nutrition tracker
 
-Offline-first, with a real calculation engine (Mifflin–St Jeor), a 184-food database, and meal
-scanning that estimates macros from a photo you then correct. No account and no network needed.
-English and Arabic, with a genuine right-to-left layout.
+Works offline, with no account and no network. It sets your targets with the Mifflin–St Jeor
+equation, ships with a built-in food database, and can estimate the macros in a meal from a photo —
+an estimate you're meant to correct, not trust. English and Arabic, with a real right-to-left layout.
 
-<sub>948 unit tests · 70 e2e tests · 3 security passes</sub>
+<sub>unit and end-to-end test suites · security notes in the repo</sub>
 
 <img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -43,13 +41,13 @@ English and Arabic, with a genuine right-to-left layout.
 </td>
 <td width="50%" valign="top">
 
-### VisSort — algorithm visualizer
+### VisSort — sorting visualizer
 
-Six sorting algorithms shown three ways: a 3D gantry crane that lifts and places numbered boxes,
-an array view split into the regions each algorithm maintains, and a recursion tree that builds
-itself. Type your own numbers and step through one comparison at a time, forwards or backwards.
+Six algorithms shown three ways at once: a 3D crane that lifts and places numbered boxes, an array
+split into the regions the algorithm is keeping track of, and a recursion tree that draws itself as
+it goes. Type in your own numbers and step through one comparison at a time, forwards or backwards.
 
-<sub>pseudocode in lock-step · quizzes from real runs</sub>
+<sub>the pseudocode follows along, line by line</sub>
 
 <img src="https://img.shields.io/badge/Three.js-1B2733?style=flat-square&logo=threedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
@@ -63,17 +61,17 @@ itself. Type your own numbers and step through one comparison at a time, forward
 <tr>
 <td width="50%" valign="top">
 
-### LuminaStudy — AI study platform
+### LuminaStudy — AI study tools
 
-Turns lecture notes or a PDF into flashcards, a practice quiz, a summary and ranked highlights,
-then schedules reviews with SM-2 spaced repetition. PDFs are parsed in the browser, so the file
-never leaves your device. Plus a grade calculator and a multi-semester degree planner.
+Turns lecture notes or a PDF into flashcards, a practice quiz and a summary, then schedules the
+reviews with SM-2 spaced repetition. The PDF is read in your browser, so the file never leaves your
+computer. There's a grade calculator and a multi-semester degree planner in there too.
 
-<sub>mastery derived from real review intervals, never hand-set</sub>
+<sub>source only — it needs its own server for accounts and AI, so there's no demo to link</sub>
 
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-1B2733?style=flat-square&logo=nodedotjs&logoColor=5ED29C" />
+<img src="https://img.shields.io/badge/Three.js-1B2733?style=flat-square&logo=threedotjs&logoColor=white" />
 
 <a href="https://github.com/Mutasim-Abbas/LuminaStudy"><img src="https://img.shields.io/badge/Code-070B0A?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -82,11 +80,11 @@ never leaves your device. Plus a grade calculator and a multi-semester degree pl
 
 ### Portfolio — my personal site
 
-A single-page site built as a working proof of skill rather than a template fill-in. Static export,
-no server, no secrets. Canvas particle field, liquid-glass surfaces and marquees — with
-reduced-motion fallbacks, so the animation turns itself off for anyone who asked it to.
+One page, exported as static files, with no server behind it. A canvas particle field and glass
+panels, built with reduced-motion fallbacks so the animation switches itself off for anyone whose
+system asked for that.
 
-<sub>static export · self-hosted fonts · deploys on push</sub>
+<sub>self-hosted fonts · deploys on push</sub>
 
 <img src="https://img.shields.io/badge/Next.js-1B2733?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-1B2733?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
@@ -103,25 +101,28 @@ reduced-motion fallbacks, so the animation turns itself off for anyone who asked
 
 <div align="center">
 
-<img alt="TypeScript, JavaScript, React, Next.js, Tailwind, Three.js, Node.js, Postgres, Vite, Vercel, Git" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,threejs,nodejs,postgres,vite,vercel,git&theme=dark&perline=11" />
+<img alt="TypeScript, JavaScript, React, Tailwind, Vite, Node.js, Postgres, Git, Vercel" src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nodejs,postgres,git,vercel&theme=dark&perline=9" />
 
 </div>
 
 | | |
 | :-- | :-- |
-| **Language & framework** | TypeScript (strict, no `any` escapes) · React · Next.js App Router · Tailwind |
-| **Backend** | Serverless functions · Postgres with Drizzle ORM · argon2id sessions · `zod` at every boundary |
-| **Testing** | Vitest + React Testing Library · Playwright in a real browser, at phone and desktop widths |
-| **Also** | Three.js · Framer Motion · PWA / offline-first · i18n with right-to-left layouts |
+| **Day to day** | TypeScript · React · Tailwind · Vite · React Router |
+| **Testing** | Vitest and React Testing Library for units · Playwright for end-to-end runs in a real browser |
+| **Backend** | Enough to ship one. Modus runs on serverless routes over Postgres, with Drizzle handling the schema and migrations. |
+| **Tools** | Git · Vercel · ESLint and Prettier on everything |
+
+This is the list I'd be happy to be questioned on. My projects use more than this — Three.js in
+VisSort, Next.js in the portfolio — but I've used those for one project each, and I'd rather say so
+than pad the list.
 
 ## How I work
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>Deployed or it doesn't count</b><br /><sub>A project isn't finished while it only runs on my machine.</sub></td>
-<td width="25%" valign="top"><b>Write down what it can't do</b><br /><sub>Every README I write has a known-limitations section.</sub></td>
-<td width="25%" valign="top"><b>Tests before polish</b><br /><sub>Modus alone carries over a thousand automated tests.</sub></td>
-<td width="25%" valign="top"><b>AI is a feature, not the product</b><br /><sub>Every estimate is editable. Every app works without it.</sub></td>
+<td width="33%" valign="top"><b>I finish things</b><br /><sub>Everything above is deployed or open source. None of it is a demo that only runs on my machine.</sub></td>
+<td width="33%" valign="top"><b>I write down what doesn't work</b><br /><sub>Every README I write has a known-limitations section, because it's the first thing I'd want to read.</sub></td>
+<td width="33%" valign="top"><b>AI stays a feature</b><br /><sub>Where I use AI, you can edit or ignore what it suggests — and the app still works with it switched off.</sub></td>
 </tr>
 </table>
 

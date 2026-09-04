@@ -128,8 +128,6 @@ than pad the list.
 
 <div align="center">
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Mutasim-Abbas&bg_color=0D1117&color=C9D1D9&line=5ED29C&point=7FD8E8&area=true&area_color=5ED29C&hide_border=true&hide_title=true" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mutasim-Abbas/Mutasim-Abbas/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mutasim-Abbas/Mutasim-Abbas/output/snake.svg">

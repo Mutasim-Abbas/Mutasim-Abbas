@@ -52,7 +52,7 @@ it goes. Type in your own numbers and step through one comparison at a time, for
 <img src="https://img.shields.io/badge/TypeScript-1B2733?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/React-1B2733?style=flat-square&logo=react&logoColor=61DAFB" />
 
-<a href="https://visort-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-5ED29C?style=flat-square" /></a>
+<a href="https://vis-sort.vercel.app/"><img src="https://img.shields.io/badge/Live-5ED29C?style=flat-square" /></a>
 <a href="https://github.com/Mutasim-Abbas/VisSort"><img src="https://img.shields.io/badge/Code-070B0A?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
